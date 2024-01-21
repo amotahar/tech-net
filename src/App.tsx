@@ -1,7 +1,13 @@
 
 function App() {
   return (
-      <h1>Tech Net</h1>
+      <div className="">
+        <div>
+          <button>Increment</button>
+          <div>0</div>
+          <button>Decrement</button>
+        </div>
+      </div>
   
   )
 }
