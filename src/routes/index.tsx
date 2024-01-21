@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "../App";
 import Login from "../page/Login";
-import Home from "../page/Home";
+import NotFound from "../page/NotFound";
 
 
 const routes = createBrowserRouter([
@@ -10,8 +10,8 @@ const routes = createBrowserRouter([
         element: <App />
     },
     {
-        path:"/home",
-        element: <Home />
+        path:"*",
+        element: <NotFound />
     },
     {
         path:"/login",
