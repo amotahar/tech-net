@@ -1,4 +1,4 @@
-#Explore the core concepts of Redux and master state management in React applications. This repo includes code and resources for the following topics:
+#Explore the core concepts of Redux and master state management in React applications. This repo includes code and resources for the following topics:share
 
 1. Explain Redux.redux, redux, learn & habit & leran & share
 2. The Inner Mechanisms of Redux
