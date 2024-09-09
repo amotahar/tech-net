@@ -1,7 +1,7 @@
 #Explore the core concepts of Redux and master state management in React Typescript applications. This repo includes code and res end ources for the following topics:share learn & gather knowledge challenge 
 
 1. Explain Redux.redux, redux, learn & habit & leran & share winning win chance
-2. The Inner Mechanisms ghof Redux Eid Reunion
+2. The Inner Mechanisms ghof Redux Eid Reunion break
 3. Getting React projects started learn
 4. Routing and File Structure - Configuring the First Slice - Linking Components with Redux Store
 5. Payload, Actions, and Business Logic - DevTools and Best Practices for TypeScript
