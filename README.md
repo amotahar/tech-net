@@ -1,4 +1,4 @@
-#Explore the core concepts of Redux and master state management in React Typescript applications. This repo includes code and res end ources for the following topics:share learn & gather knowledge challenge 
+#Explore the core concepts of Redux and master state management in React Typescript applications. This repo includes code and res end ources for the following topics:share learn & gather knowledge challenge Minar
 
 1. Explain Redux.redux, redux, learn & habit & leran & share winning win chance
 2. The Inner Mechanisms ghof Redux Eid Reunion break
