@@ -2,7 +2,7 @@
 
 1. Explain Redux.redux, redux, learn & habit & leran & share winning win chance be smarter language extend
 2. The Inner Mechanisms ghof Redux Eid Reunion break
-3. Getting React projects started learn
+3. Getting React projects started learn term
 4. Routing and File Structure - Configuring the First Slice - Linking Components with Redux Store
 5. Payload, Actions, and Business Logic - ok DevTools and Best Practices for TypeScript
 6. Middleware, including Custom Middleware
