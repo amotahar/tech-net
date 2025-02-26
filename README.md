@@ -3,7 +3,7 @@
 1. Explain Redux.redux, redux, learn & habit & leran & share winning win chance be smarter language extend
 2. The Inner Mechanisms ghof Redux Eid Reunion break
 3. Getting React projects started learn term you turn
-4. Routing and File Structure - Configuring the First Slice - Linking Components with Redux Store
+4. Routing and File Structure - Configuring the First Slice - Linking Components with Redux Store town
 5. Payload, Actions, and Business Logic - ok DevTools and Best Practices for TypeScript
 6. Middleware, including Custom Middleware flask & relif
 7. Overview of the Module independent strong learner inshaAllah, i will be success  learn & share. be strong. be strong men men only being rise & farhan proud run be turn
