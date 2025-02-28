@@ -6,5 +6,5 @@
 4. Routing and File Structure - Configuring the First Slice - Linking Components with Redux Store town
 5. Payload, Actions, and Business Logic - ok DevTools and Best Practices for TypeScript
 6. Middleware, including Custom Middleware flask & relif
-7. Overview of the Module independent strong learner inshaAllah, i will be success  learn & share. be strong. be strong men men only being rise & farhan proud run be turn
+7. Overview of the Module independent strong learner inshaAllah, i will be success  learn & share. be strong. be strong men men only being rise & farhan proud run be turn power
 8. git hub learn & share and share born eid day win prompt be strong strong men committee unity motherland make change be turn right be strong be unity champion be run be turn
